@@ -21,7 +21,7 @@ public class ItemStaffHemmy extends ItemStaff
     public ItemStaffHemmy()
     {
 	super();
-	setBaseStats(2.5, 15, 0.1, 10);
+	setBaseStats(175, 15, 0.1, 10);
     }
 
     @Override
